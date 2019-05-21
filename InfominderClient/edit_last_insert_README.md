@@ -15,3 +15,8 @@
 7.  Press ctrl+s save the script
     
 8.  Visit infominder to view the changes
+
+
+Note: Security risks to Internet user with tamperMonkey loaded 
+
+Like anything else you load on your system, tamperMonkey can be used against you. Don't load (other) scripts onto your system unless you trust the source (in both meanings of the term 'source'). It's fairly limited and sandboxed, but that doesn't mean it's safe, merely that it's harder for someone to do something nefarious.
