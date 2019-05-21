@@ -1,9 +1,8 @@
-# samplecode
-Code sample for information tools
+# Code Samples for Information Tools
 
 The repo currently contains the following:
 
-## InfoMinderRSS
+## InfoMinder RSS
 How to create an RSS feed from InfoMinder alerts and a sample program to consume the feeds. If you find problems or questions, please raise an issue and we will look into it.
 
 ## InfoMinder Client 
